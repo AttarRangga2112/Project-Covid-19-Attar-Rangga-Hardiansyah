@@ -1,0 +1,30 @@
+C:\Users\Wannacry\AppData\Local\Temporary Projects\penilaianResikoTerkaitCovid-19\bin\Debug\penilaianResikoTerkaitCovid-19.exe.config
+C:\Users\Wannacry\AppData\Local\Temporary Projects\penilaianResikoTerkaitCovid-19\bin\Debug\penilaianResikoTerkaitCovid-19.exe
+C:\Users\Wannacry\AppData\Local\Temporary Projects\penilaianResikoTerkaitCovid-19\bin\Debug\penilaianResikoTerkaitCovid-19.pdb
+C:\Users\Wannacry\AppData\Local\Temporary Projects\penilaianResikoTerkaitCovid-19\bin\Debug\penilaianResikoTerkaitCovid-19.xml
+C:\Users\Wannacry\AppData\Local\Temporary Projects\penilaianResikoTerkaitCovid-19\obj\Debug\penilaianResikoTerkaitCovid_19.Form1.resources
+C:\Users\Wannacry\AppData\Local\Temporary Projects\penilaianResikoTerkaitCovid-19\obj\Debug\penilaianResikoTerkaitCovid_19.Form2.resources
+C:\Users\Wannacry\AppData\Local\Temporary Projects\penilaianResikoTerkaitCovid-19\obj\Debug\penilaianResikoTerkaitCovid_19.Form3.resources
+C:\Users\Wannacry\AppData\Local\Temporary Projects\penilaianResikoTerkaitCovid-19\obj\Debug\penilaianResikoTerkaitCovid_19.Resources.resources
+C:\Users\Wannacry\AppData\Local\Temporary Projects\penilaianResikoTerkaitCovid-19\obj\Debug\penilaianResikoTerkaitCovid-19.vbproj.GenerateResource.Cache
+C:\Users\Wannacry\AppData\Local\Temporary Projects\penilaianResikoTerkaitCovid-19\obj\Debug\penilaianResikoTerkaitCovid-19.exe
+C:\Users\Wannacry\AppData\Local\Temporary Projects\penilaianResikoTerkaitCovid-19\obj\Debug\penilaianResikoTerkaitCovid-19.xml
+C:\Users\Wannacry\AppData\Local\Temporary Projects\penilaianResikoTerkaitCovid-19\obj\Debug\penilaianResikoTerkaitCovid-19.pdb
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\penilaianResikoTerkaitCovid-19\penilaianResikoTerkaitCovid-19\bin\Debug\penilaianResikoTerkaitCovid-19.exe.config
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\penilaianResikoTerkaitCovid-19\penilaianResikoTerkaitCovid-19\obj\Debug\penilaianResikoTerkaitCovid-19.exe
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\penilaianResikoTerkaitCovid-19\penilaianResikoTerkaitCovid-19\obj\Debug\penilaianResikoTerkaitCovid-19.xml
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\penilaianResikoTerkaitCovid-19\penilaianResikoTerkaitCovid-19\obj\Debug\penilaianResikoTerkaitCovid-19.pdb
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\penilaianResikoTerkaitCovid-19\penilaianResikoTerkaitCovid-19\bin\Debug\penilaianResikoTerkaitCovid-19.exe
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\penilaianResikoTerkaitCovid-19\penilaianResikoTerkaitCovid-19\bin\Debug\penilaianResikoTerkaitCovid-19.pdb
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\penilaianResikoTerkaitCovid-19\penilaianResikoTerkaitCovid-19\bin\Debug\penilaianResikoTerkaitCovid-19.xml
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\penilaianResikoTerkaitCovid-19\penilaianResikoTerkaitCovid-19\obj\Debug\penilaianResikoTerkaitCovid_19.Form1.resources
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\penilaianResikoTerkaitCovid-19\penilaianResikoTerkaitCovid-19\obj\Debug\penilaianResikoTerkaitCovid_19.Form2.resources
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\penilaianResikoTerkaitCovid-19\penilaianResikoTerkaitCovid-19\obj\Debug\penilaianResikoTerkaitCovid_19.Form3.resources
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\penilaianResikoTerkaitCovid-19\penilaianResikoTerkaitCovid-19\obj\Debug\penilaianResikoTerkaitCovid_19.Resources.resources
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\penilaianResikoTerkaitCovid-19\penilaianResikoTerkaitCovid-19\obj\Debug\penilaianResikoTerkaitCovid-19.vbproj.GenerateResource.Cache
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\penilaianResikoTerkaitCovid-19\penilaianResikoTerkaitCovid-19\bin\Debug\Guna.UI2.dll
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\penilaianResikoTerkaitCovid-19\penilaianResikoTerkaitCovid-19\obj\Debug\penilaianResikoTerkaitCovid_19.Form4.resources
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\penilaianResikoTerkaitCovid-19\penilaianResikoTerkaitCovid-19\obj\Debug\penilaianResikoTerkaitCovid-19.vbprojResolveAssemblyReference.cache
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\penilaianResikoTerkaitCovid-19\penilaianResikoTerkaitCovid-19\obj\Debug\penilaianResikoTerkaitCovid_19.chart.resources
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\penilaianResikoTerkaitCovid-19\penilaianResikoTerkaitCovid-19\obj\Debug\penilaianResikoTerkaitCovid_19.table.resources
+C:\Users\Wannacry\Documents\Visual Studio 2013\Projects\penilaianResikoTerkaitCovid-19\penilaianResikoTerkaitCovid-19\obj\Debug\penilaianResikoTerkaitCovid_19.tabelresiko.resources
